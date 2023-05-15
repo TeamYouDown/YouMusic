@@ -1,0 +1,19 @@
+Bu uygulamayla, ücretsiz bir müzik akışı hizmeti alıyor gibisiniz. YouTube Music'ten müzik dinleyebilir ve kendi kitaplığınızı oluşturabilirsiniz. Dahası, şarkılar çevrimdışı oynatmak için indirilebilir. Şarkılarınızı düzenlemek için çalma listeleri de oluşturabilirsiniz. <i>YouMusic</i>'in amacı, kullanımı kolay, pratik ve reklamsız bir uygulama ile herkesin ücretsiz müzik dinlemesini sağlamaktır.
+
+<br><b>Not:</b>
+
+Proje şu anda istikrarsız bir aşamada. Hatalarla karşılaşırsanız, lütfen <a href='https://github.com/TeamYouDown/YouMusic'>GitHub</a>'da bir sorun açarak bildirin.
+
+<br><b>Özellikler:</b>
+
+* Şarkıları reklamsız çalın
+* Çevrimdışı oynatmak için müzik indirin
+* Yerel kütüphane yönetimi
+* İndirilen şarkıları SAF aracılığıyla dışa aktarın
+* Önbellek şarkıları
+* (Senkronize) şarkı sözleri
+* Ses normalleştirme
+* Sessizliği atla
+* Yedekleme ve geri yükleme
+* Destek proxy'si
+* Android Auto'yu destekleyin
