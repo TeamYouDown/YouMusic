@@ -70,16 +70,16 @@ With this app, you're like getting a free music streaming service. You can liste
 ## Screenshots
 
 <p float="left">
-  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/01.jpg" width="170" />
-  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/02.jpg" width="170" />
-  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/03.jpg" width="170" />
-  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/04.jpg" width="170" />
+  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/en1.png" width="170" />
+  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/en2.png" width="170" />
+  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/en3.png" width="170" />
+  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/en4.png" width="170" />
 </p>
 <p float="left">
-  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/05.jpg" width="170" />
-  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/07.jpg" width="170" />
-  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/08.jpg" width="170" />
-  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/09.jpg" width="170" />
+  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/en5.png" width="170" />
+  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/en6.png" width="170" />
+  <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/en7.png" width="170" />
+    <img src="https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/en8.png" width="170" />
 </p>
 
 ## Installation
