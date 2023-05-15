@@ -1,6 +1,14 @@
 # YouMusic - Ad-Free and Free YouTube Music Download and Listening Application
 
-<img src="https://github.com/TeamYouDown/YouMusic/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" height="72">
+<img src="https://github.com/TeamYouDown/YouMusic/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" height="75">
+
+## Downloadable Platforms
+
+<img src="https://youdown.net/material/img/google-play.png">  <img src="https://youdown.net/material/img/app-gallery.png">  <img src="https://youdown.net/material/img/get-app.png">
+
+1. [Google Play](https://play.google.com/store/apps/details?id=com.ozsoft.youmusic)
+2. [Huawei AppGallery](https://appgallery.huawei.com/app/C108194695)
+3. [Xiomi GetApps](https://global.app.mi.com/details?id=com.ozsoft.youmusic)
 
 Make your own music library with any song from YouTube Music.  
 No ads, free, and simple.
@@ -89,9 +97,16 @@ How to get updates?
 
 ## FAQ
 
+### Q: Is there any working demo?
+
+Yes there is a demo installed on Google Play, AppGallery and GetApps.
+1. [Google Play](https://play.google.com/store/apps/details?id=com.ozsoft.youmusic)
+2. [Huawei AppGallery](https://appgallery.huawei.com/app/C108194695)
+3. [Xiomi GetApps](https://global.app.mi.com/details?id=com.ozsoft.youmusic)
+
 ### Q: How to scrobble music to LastFM, LibreFM, ListenBrainz or GNU FM?
 
-Use other music scrobbler apps. I recommend [Pano Scrobbler](https://play.google.com/store/apps/details?id=com.arn.scrobble).
+Use other music apps. I recommend [YouMusic - Listen and Download](https://play.google.com/store/apps/details?id=com.ozsoft.youmusic).
 
 ### Q: How to export downloaded song files?
 
