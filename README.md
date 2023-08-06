@@ -10,7 +10,7 @@
 
 ## Downloadable Platforms
 
-<img src="https://youdown.net/material/img/google-play.png">  <img src="https://youdown.net/material/img/app-gallery.png">  <img src="https://youdown.net/material/img/get-app.png">
+<img src="https://youdown.net/material/img/app-gallery.png">  <img src="https://youdown.net/material/img/get-app.png">
 
 1. [Huawei AppGallery](https://appgallery.huawei.com/app/C108194695)
 2. [Xiomi GetApps](https://global.app.mi.com/details?id=com.ozsoft.youmusic)
@@ -107,9 +107,8 @@ How to get updates?
 ### Q: Is there any working demo?
 
 Yes there is a demo installed on Google Play, AppGallery and GetApps.
-1. [Google Play](https://play.google.com/store/apps/details?id=com.ozsoft.youmusic)
-2. [Huawei AppGallery](https://appgallery.huawei.com/app/C108194695)
-3. [Xiomi GetApps](https://global.app.mi.com/details?id=com.ozsoft.youmusic)
+1. [Huawei AppGallery](https://appgallery.huawei.com/app/C108194695)
+2. [Xiomi GetApps](https://global.app.mi.com/details?id=com.ozsoft.youmusic)
 
 ### Q: How to scrobble music to LastFM, LibreFM, ListenBrainz or GNU FM?
 
