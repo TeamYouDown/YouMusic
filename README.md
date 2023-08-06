@@ -110,10 +110,6 @@ Yes there is a demo installed on Google Play, AppGallery and GetApps.
 1. [Huawei AppGallery](https://appgallery.huawei.com/app/C108194695)
 2. [Xiomi GetApps](https://global.app.mi.com/details?id=com.ozsoft.youmusic)
 
-### Q: How to scrobble music to LastFM, LibreFM, ListenBrainz or GNU FM?
-
-Use other music apps. I recommend [YouMusic - Listen and Download](https://play.google.com/store/apps/details?id=com.ozsoft.youmusic).
-
 ### Q: How to export downloaded song files?
 
 *YouMusic* supports SAF. You can find the provider in Android native file manager. You can also use [instruction](https://github.com/TeamYouDown/YouMusic/issues) (recommended).
