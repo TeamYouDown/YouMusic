@@ -1,4 +1,12 @@
-# YouMusic - Ad-Free and Free YouTube Music Download and Listening Application
+![MAIN HEADER](https://github.com/TeamYouDown/YouMusic/blob/main/fastlane/metadata/android/app_banner_youmusic.jpg?raw=true)
+
+[![Latest release](https://img.shields.io/github/v/release/TeamYouDown/YouMusic?include_prereleases)](https://github.com/TeamYouDown/YouMusic/releases)
+![](https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg)
+![](https://img.shields.io/badge/Version-1.0.3-green.svg)
+[![License](https://img.shields.io/github/license/TeamYouDown/YouMusic)](https://www.gnu.org/licenses/gpl-3.0)
+[![Downloads](https://img.shields.io/github/downloads/TeamYouDown/YouMusic/total)](https://github.com/TeamYouDown/YouMusic/releases)
+
+# YouMusic - Ad-Free and Free YouTube Music/MP3 Download and Listening Application
 
 <img src="https://github.com/TeamYouDown/YouMusic/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" height="75">
 
@@ -6,16 +14,17 @@
 
 <img src="https://youdown.net/material/img/google-play.png">  <img src="https://youdown.net/material/img/app-gallery.png">  <img src="https://youdown.net/material/img/get-app.png">
 
-1. [Google Play](https://play.google.com/store/apps/details?id=com.ozsoft.youmusic)
-2. [Huawei AppGallery](https://appgallery.huawei.com/app/C108194695)
-3. [Xiomi GetApps](https://global.app.mi.com/details?id=com.ozsoft.youmusic)
+1. [Huawei AppGallery](https://appgallery.huawei.com/app/C108194695)
+2. [Xiomi GetApps](https://global.app.mi.com/details?id=com.ozsoft.youmusic)
 
 Make your own music library with any song from YouTube Music.  
 No ads, free, and simple.
 
-[![Latest release](https://img.shields.io/github/v/release/TeamYouDown/YouMusic?include_prereleases)](https://github.com/TeamYouDown/YouMusic/releases)
-[![License](https://img.shields.io/github/license/TeamYouDown/YouMusic)](https://www.gnu.org/licenses/gpl-3.0)
-[![Downloads](https://img.shields.io/github/downloads/TeamYouDown/YouMusic/total)](https://github.com/TeamYouDown/YouMusic/releases)
+* ***Still any Doubts / Problems ? (or) Want to suggest me any new Feature / Idea ?***
+     * Feel free to contact me any time through any of the following sources.
+     * Mail me to : info@youdown.net
+     * Join our [Telegram Group](https://t.me/YouDown_Chat)
+     * Find other ways from [My Website](https://youdown.net)
 
 > **Note**
 >
