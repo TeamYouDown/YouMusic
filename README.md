@@ -8,8 +8,6 @@
 
 # YouMusic - Ad-Free and Free YouTube Music/MP3 Download and Listening Application
 
-<img src="https://github.com/TeamYouDown/YouMusic/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" height="75">
-
 ## Downloadable Platforms
 
 <img src="https://youdown.net/material/img/google-play.png">  <img src="https://youdown.net/material/img/app-gallery.png">  <img src="https://youdown.net/material/img/get-app.png">
