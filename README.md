@@ -2,7 +2,7 @@
 
 [![Latest release](https://img.shields.io/github/v/release/TeamYouDown/YouMusic?include_prereleases)](https://github.com/TeamYouDown/YouMusic/releases)
 ![](https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg)
-![](https://img.shields.io/badge/Version-1.0.3-green.svg)
+![](https://img.shields.io/badge/Version-1.0.5-green.svg)
 [![License](https://img.shields.io/github/license/TeamYouDown/YouMusic)](https://www.gnu.org/licenses/gpl-3.0)
 [![Downloads](https://img.shields.io/github/downloads/TeamYouDown/YouMusic/total)](https://github.com/TeamYouDown/YouMusic/releases)
 
