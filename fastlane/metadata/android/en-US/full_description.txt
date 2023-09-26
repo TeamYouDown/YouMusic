@@ -6,14 +6,16 @@ The project is currently in an unstable stage. If you encounter bugs, please rep
 
 <br><b>Features:</b>
 
-* Play songs without ads
-* Download music for offline playback
-* Local library management
-* Export downloaded songs via SAF
-* Cache songs
-* (Synchronized) lyrics
-* Audio normalization
-* Skip silence
-* Backup & restore
-* Support proxy
-* Support Android Auto
+- Play songs from YT/YT Music without ads
+- Background playback
+- Search songs, videos, albums, and playlists from YouTube Music
+- Library management
+- Cache and download songs for offline playback
+- Synchronized lyrics
+- Skip silence
+- Audio normalization
+- Dynamic theme
+- Localization
+- Android Auto support
+- Personalized quick picks
+- Material 3

@@ -1,31 +1,45 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
-
-buildscript {
-    repositories {
-        google()
-        mavenCentral()
-    }
-    val kotlin_version = "1.6.20"
-    dependencies {
-        classpath("com.android.tools.build:gradle:7.3.0")
-        classpath("androidx.navigation:navigation-safe-args-gradle-plugin:2.5.2")
-        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version")
-        classpath("org.jetbrains.kotlin:kotlin-serialization:$kotlin_version")
-        classpath("dev.rikka.tools.materialthemebuilder:gradle-plugin:1.3.2")
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
-        classpath("com.google.gms:google-services:4.3.15")
-    }
+plugins {
+    id("com.google.dagger.hilt.android").version("2.44").apply(false)
+    id("com.google.devtools.ksp").version("1.8.0-1.0.9").apply(false)
 }
 
-allprojects {
+buildscript {
+    val isFullBuild by extra {
+        gradle.startParameter.taskNames.none { task -> task.contains("foss", ignoreCase = true) }
+    }
+
     repositories {
         google()
         mavenCentral()
-        maven("https://jitpack.io")
+        maven { setUrl("https://jitpack.io") }
+        maven { setUrl("https://developer.huawei.com/repo/") }
+    }
+    dependencies {
+        classpath("com.huawei.agconnect:agcp:1.9.0.300")
+        classpath(libs.gradle)
+        classpath(kotlin("gradle-plugin", libs.versions.kotlin.get()))
+        if (isFullBuild) {
+            classpath(libs.google.services)
+            classpath(libs.firebase.crashlytics.plugin)
+            classpath(libs.firebase.perf.plugin)
+        }
     }
 }
 
 tasks.register<Delete>("Clean") {
     delete(rootProject.buildDir)
+}
+
+subprojects {
+    tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile>().configureEach {
+        kotlinOptions {
+            if (project.findProperty("enableComposeCompilerReports") == "true") {
+                arrayOf("reports", "metrics").forEach {
+                    freeCompilerArgs = freeCompilerArgs + listOf(
+                        "-P", "plugin:androidx.compose.compiler.plugins.kotlin:${it}Destination=${project.buildDir.absolutePath}/compose_metrics"
+                    )
+                }
+            }
+        }
+    }
 }

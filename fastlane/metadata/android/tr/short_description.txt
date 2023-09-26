@@ -1,1 +1,1 @@
-Materyal tasarımlı bir YouTube Music kullanıcısı
+Materyal tasarımlı bir YouTube Müzik istemcisi

@@ -6,14 +6,16 @@ Proje şu anda istikrarsız bir aşamada. Hatalarla karşılaşırsanız, lütfe
 
 <br><b>Özellikler:</b>
 
-* Şarkıları reklamsız çalın
-* Çevrimdışı oynatmak için müzik indirin
-* Yerel kütüphane yönetimi
-* İndirilen şarkıları SAF aracılığıyla dışa aktarın
-* Önbellek şarkıları
-* (Senkronize) şarkı sözleri
-* Ses normalleştirme
-* Sessizliği atla
-* Yedekleme ve geri yükleme
-* Destek proxy'si
-* Android Auto'yu destekleyin
+- YT/YT Müzik'teki şarkıları reklamsız dinleyin
+- Arka planda oynatma
+- YouTube Müzik'te şarkı, video, albüm ve çalma listesi arama
+- Kütüphane yönetimi
+- Çevrimdışı çalmak için şarkıları önbelleğe alma ve indirme
+- Senkronize şarkı sözleri
+- Sessizliği atlama
+- Ses normalleştirme
+- Dinamik tema
+- Yerelleştirme
+- Android Auto desteği
+- Kişiselleştirilmiş hızlı seçimler
+- Materyal 3

@@ -31,11 +31,13 @@ data class AccountMenuResponse(
                         @Serializable
                         data class ActiveAccountHeaderRenderer(
                             val accountName: Runs,
-                            val email: Runs,
+                            val email: Runs?,
+                            val channelHandle: Runs?,
                         ) {
                             fun toAccountInfo() = AccountInfo(
-                                accountName.toString(),
-                                email.toString()
+                                name = accountName.runs!!.first().text,
+                                email = email?.runs?.first()?.text,
+                                channelHandle = channelHandle?.runs?.first()?.text
                             )
                         }
                     }
