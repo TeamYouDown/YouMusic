@@ -8,13 +8,14 @@ plugins {
     kotlin("kapt")
     id("com.google.dagger.hilt.android")
     id("com.google.devtools.ksp")
-    id("com.huawei.agconnect")
+//    id("com.huawei.agconnect")
 }
 
 if (isFullBuild && System.getenv("PULL_REQUEST") == null) {
     apply(plugin = "com.google.gms.google-services")
     apply(plugin = "com.google.firebase.crashlytics")
     apply(plugin = "com.google.firebase.firebase-perf")
+    apply(plugin = "com.huawei.agconnect")
 }
 
 android {
@@ -25,8 +26,8 @@ android {
         applicationId = "com.ozsoft.youmusic"
         minSdk = 24
         targetSdk = 33
-        versionCode = 13
-        versionName = "1.0.5"
+        versionCode = 14
+        versionName = "1.0.7"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

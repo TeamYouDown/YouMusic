@@ -15,13 +15,14 @@ buildscript {
         maven { setUrl("https://developer.huawei.com/repo/") }
     }
     dependencies {
-        classpath("com.huawei.agconnect:agcp:1.9.0.300")
+//        classpath("com.huawei.agconnect:agcp:1.9.0.300")
         classpath(libs.gradle)
         classpath(kotlin("gradle-plugin", libs.versions.kotlin.get()))
         if (isFullBuild) {
             classpath(libs.google.services)
             classpath(libs.firebase.crashlytics.plugin)
             classpath(libs.firebase.perf.plugin)
+            classpath("com.huawei.agconnect:agcp:1.9.0.300")
         }
     }
 }
